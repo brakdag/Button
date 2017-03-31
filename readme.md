@@ -1,2 +1,3 @@
-# Button
-Librería de arduino para solucionar problema con botones (ruido)
+# Button Library
+
+Arduino library to solve problems with buttons (contact noise)
